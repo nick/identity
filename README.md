@@ -2,6 +2,8 @@
 
 ## Installation
 
+    git clone https://github.com/nick/identity.git
+    cd identity
     npm install
     npm test
 
