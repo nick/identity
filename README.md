@@ -26,4 +26,4 @@
 
 ## Credits
 
-Thanks to @JosefJ for his [original implementation](JosefJ/IdentityContract)
+Thanks to @JosefJ for his [original implementation](/JosefJ/IdentityContract)
