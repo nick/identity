@@ -1,6 +1,6 @@
 # ERC 725+735: Identity
 
-### Please see [OriginProtocol/identity-playground](https://github.com/OriginProtocol/identity-playground) for a up to date implementation
+### Please see [OriginProtocol/identity-playground](https://github.com/OriginProtocol/identity-playground) for a more recent implementation and UI
 
 ## Installation
 
